@@ -1,14 +1,22 @@
 # ここには便利そうなリンクを追加していきます。
 
+
+## 地図データ系
 ## G空間情報センター
 https://www.geospatial.jp/gp_front/
 
-## 地図データ系
 #### 地理院タイル一覧
 https://maps.gsi.go.jp/development/ichiran.html
 
 #### 「重ねるハザードマップ」のデータ配信について
 https://disaportal.gsi.go.jp/hazardmap/copyright/opendata.html
+
+## 政府統計の総合窓口
+https://www.e-stat.go.jp/
+https://www.e-stat.go.jp/api/
+
+## 道路情報提供システム
+http://road.thr.mlit.go.jp/
 
 #### OpenStreetMap
 https://www.openstreetmap.org/
@@ -16,6 +24,7 @@ https://www.openstreetmap.org/
 #### OpenWeatherMap
 https://openweathermap.org/
 https://openweathermap.org/api
+
 
 
 ## 情報系
