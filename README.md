@@ -2,7 +2,7 @@
 
 
 ## 地図データ系
-## G空間情報センター
+#### G空間情報センター
 https://www.geospatial.jp/gp_front/
 
 #### 地理院タイル一覧
@@ -11,11 +11,11 @@ https://maps.gsi.go.jp/development/ichiran.html
 #### 「重ねるハザードマップ」のデータ配信について
 https://disaportal.gsi.go.jp/hazardmap/copyright/opendata.html
 
-## 政府統計の総合窓口
+#### 政府統計の総合窓口
 https://www.e-stat.go.jp/
 https://www.e-stat.go.jp/api/
 
-## 道路情報提供システム
+#### 道路情報提供システム
 http://road.thr.mlit.go.jp/
 
 #### OpenStreetMap
