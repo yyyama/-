@@ -1,8 +1,8 @@
-### プログラム関係
+## プログラム関係
 #### ブラウザで使えるプロパティ等をチェック
 https://caniuse.com/
 
-### データ関係
+## データ関係
 #### G空間情報センター
 https://www.geospatial.jp/gp_front/
 
