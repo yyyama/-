@@ -1,5 +1,3 @@
-# ここには便利そうなリンクを追加していきます。
-
 #### G空間情報センター
 https://www.geospatial.jp/gp_front/
 
