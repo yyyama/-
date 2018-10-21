@@ -9,7 +9,7 @@ https://maps.gsi.go.jp/development/ichiran.html
 #### 「重ねるハザードマップ」のデータ配信について
 https://disaportal.gsi.go.jp/hazardmap/copyright/opendata.html
 
-#### 政府統計の総合窓口
+#### 総務省 : 政府統計の総合窓口(e-Stat)
 https://www.e-stat.go.jp/
 https://www.e-stat.go.jp/api/
 
@@ -23,9 +23,6 @@ https://www.openstreetmap.org/
 https://openweathermap.org/
 https://openweathermap.org/api
 
-#### 政府統計の窓口
-http://www.stat.go.jp/data/index.html
-
 #### 公共クラウドシステム
 https://www.chiikinogennki.soumu.go.jp/k-cloud-api/
 #### 公共クラウドシステム API (version 1.0) 仕様書
@@ -33,8 +30,6 @@ https://www.chiikinogennki.soumu.go.jp/k-cloud-api/wp-content/uploads/2015/02/ap
 
 #### 内閣官房IT総合戦略本部 : 政府データカタログサイト
 http://www.data.go.jp/
-#### 総務省 : 政府統計の総合窓口(e-Stat)
-http://www.e-stat.go.jp/api/
 #### 総務省：IoTおもてなしクラウド
 東京都 : 東京都オープンデータカタログサイト
 http://opendata-portal.metro.tokyo.jp/www/index.html
@@ -48,8 +43,6 @@ https://ucopendb.gsi.go.jp/ucode/field_test/index.html
 http://www.data.jma.go.jp/developer/index.html
 #### 文化庁 : Culture NIPPONに公開されている文化施設の情報
 http://culture-nippon.go.jp/ja
-#### G空間情報センター
-https://www.geospatial.jp/
 #### 土木学会：インフラデータチャレンジ
 http://jsce-idc.jp/
 
