@@ -32,7 +32,7 @@ https://www.chiikinogennki.soumu.go.jp/k-cloud-api/
 https://www.chiikinogennki.soumu.go.jp/k-cloud-api/wp-content/uploads/2015/02/apidoc_v001.pdf
 
 #### 内閣官房IT総合戦略本部 : 政府データカタログサイト
-http://www.data.go.jp/
+https://www.data.go.jp/
 #### 総務省：IoTおもてなしクラウド
 東京都 : 東京都オープンデータカタログサイト
 http://opendata-portal.metro.tokyo.jp/www/index.html
